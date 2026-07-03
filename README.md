@@ -63,9 +63,10 @@ MANTRA_Academy/
 ## How to Run
 
 1. Download or clone this repository.
-2. Open the project folder.
-3. Double-click `index.html` or open it in any modern web browser (Google Chrome, Microsoft Edge, or Mozilla Firefox).
-4. Use the navigation menu to explore all pages of the website.
+   https://github.com/golivajinsaiseshu-blip/Mantra-Educational-Website-.git
+3. Open the project folder.
+4. Double-click `index.html` or open it in any modern web browser (Google Chrome, Microsoft Edge, or Mozilla Firefox).
+5. Use the navigation menu to explore all pages of the website.
 
 ## Live Website
 
