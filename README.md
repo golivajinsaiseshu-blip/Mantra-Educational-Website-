@@ -5,6 +5,28 @@ A responsive frontend website developed as part of the MANTRA 2026 Summer School
 ## Website Type
 Educational Institute Website
 
+## Project Scope
+
+This project is developed as a **frontend-only educational website** using HTML5, CSS3 and JavaScript. It demonstrates responsive web design, basic SEO, and client-side interactivity.
+No backend technologies or database have been implemented in this version. Form submissions are validated using JavaScript for demonstration purposes only and are not stored on a server.
+
+## Future Enhancements
+
+This project can be extended in the future by adding:
+
+- Backend integration using Node.js, PHP, or Django
+- Database support (MySQL or MongoDB) for storing admission details
+- User login and registration system
+- Admin dashboard for managing courses and student admissions
+- Online admission processing and application tracking
+- Email confirmation after successful admission
+- Search functionality for courses
+- Student portal for accessing course materials
+- Online payment gateway for course fee payment
+- Advanced SEO features such as XML Sitemap, robots.txt, and Schema Markup
+- Google Analytics integration for website traffic monitoring
+- Live chat support for student enquiries
+
 ## Technologies Used
 - HTML5
 - CSS3
