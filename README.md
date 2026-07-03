@@ -75,10 +75,7 @@ https://gleaming-selkie-22a687.netlify.app/
 
 ## Author
 
-## Author
-
 **Goli Vajin Sai Seshu**
 
-B.Tech, School of Computing and Data Science (SCDS)
-
+B.Tech, School of Computing and Data Science (SCDS),
 Developed for the MANTRA 2026 Summer School Frontend Website Assignment.
